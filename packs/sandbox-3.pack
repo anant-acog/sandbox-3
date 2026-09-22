@@ -1,0 +1,5 @@
+# packs/sandbox-3.pack
+# name: sandbox-3
+# description: Experimental Aganitha-style skills published from anant-acog/sandbox-3.
+
+git@github:anant-acog/sandbox-3@aganitha-eda-live-viz
